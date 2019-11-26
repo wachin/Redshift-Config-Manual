@@ -1,0 +1,11 @@
+
+
+En administradores de archivos como Nautilus se ven los archivos ocultos con Ctrl+H
+
+En administradores de archivos como Dolphin se ven los archivos ocultos con Alt + .
+
+las carpetas tienen ocultas:
+
+.config
+
+allí están los archivos
